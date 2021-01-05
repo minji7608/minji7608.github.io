@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+This is my personal website. 
 
-Template Name: MyPortfolio
-Template URL: https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com/
+It's a work in progress!
